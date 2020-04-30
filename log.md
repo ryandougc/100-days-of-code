@@ -2,7 +2,7 @@
 
 ### Day 1: April 29, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**
 
 Project: Multiplayer Online Tic-tac-toe
 I finished the basic game logic, both server side and client side
