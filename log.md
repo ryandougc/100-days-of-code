@@ -19,7 +19,7 @@ Arrays aren't meant to have key value names and can behave weridly when doing so
 https://github.com/ryandougc/multiplayer-tictactoe
 
 
-### Day 1: April 30, Thursday
+### Day 2: April 30, Thursday
 
 **Today's Progress**
 
