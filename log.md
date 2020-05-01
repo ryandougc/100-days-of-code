@@ -17,3 +17,21 @@ Arrays aren't meant to have key value names and can behave weridly when doing so
 **Link(s) to work**
 
 https://github.com/ryandougc/multiplayer-tictactoe
+
+
+### Day 1: April 30, Thursday
+
+**Today's Progress**
+
+Project: Multiplayer Online Tic-tac-toe
+I implemented the chat feature and styled the game page. I also incorporated a dark mode toggle button, which works.
+
+**Thoughts** 
+The hardest part for me right now is remembering to post on social media. I posted a photo on isntagram but it was very late. I forced myself to post something that didn't look good but it was what I had gotten done and I'm happy that I could atleast post something.
+
+Learned: 
+To push myself to follow through with what I said I would do even though I wasn't happy with the work I was showing.
+
+**Link(s) to work**
+
+https://github.com/ryandougc/multiplayer-tictactoe
