@@ -35,3 +35,22 @@ To push myself to follow through with what I said I would do even though I wasn'
 **Link(s) to work**
 
 https://github.com/ryandougc/multiplayer-tictactoe
+
+
+### Day 3: May 1, Friday
+
+**Today's Progress**
+
+Project: Multiplayer Online Tic-tac-toe
+I coded to UI for the landing page and fixed some bugs in the game logic. The game is nearly launch ready. 
+
+**Thoughts** 
+I need to do some sanitization and have some fun with the css perspective property for the landing page before I host this project. This weekend it will be done for sure.
+
+
+Learned: 
+About the CSS perspective property and how to manipulate object with another plane of movement.
+
+**Link(s) to work**
+
+https://github.com/ryandougc/multiplayer-tictactoe
